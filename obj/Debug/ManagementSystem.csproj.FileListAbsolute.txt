@@ -1,0 +1,28 @@
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Form2.resources
+c:\users\pc\documents\visual studio 2015\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Form3.resources
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.cache
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.loginForm.resources
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.addForm.resources
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.UpdateForm.resources
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.ListOfEmployeesForm.resources
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.PayrollForm.resources
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.HomeForm.resources
+C:\Users\Raheel\Desktop\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.AddPayRoll.resources
